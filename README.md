@@ -1,4 +1,4 @@
-# forum
+# Forum Client SPA
 
 A SPA Application forum application build with VueJS. Authentication
 functionality plus forum creating and answering of topics.
